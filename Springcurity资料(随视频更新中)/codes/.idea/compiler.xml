@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-security-02" />
+        <module name="spring-security-01" />
+        <module name="spring-security-13csrf-split" />
+        <module name="spring-security-07password" />
+        <module name="spring-security-16authorize" />
+        <module name="spring-security-20resource-server" />
+        <module name="spring-security-03web" />
+        <module name="spring-security-13csrf-web" />
+        <module name="spring-security-14cors" />
+        <module name="spring-security-18oauth-client-github" />
+        <module name="spring-security-19authorization-server" />
+        <module name="spring-security-04split" />
+        <module name="spring-security-12csrf-blank" />
+        <module name="spring-security-15exception-handle" />
+        <module name="spring-security-06split-verifycode" />
+        <module name="spring-security-08rememberMe" />
+        <module name="spring-security-09rememberMe-web" />
+        <module name="spring-security-05web-verifycode" />
+        <module name="spring-security-17dynamic-authorize" />
+        <module name="spring-security-12csrf-attack" />
+        <module name="spring-security-11session-management" />
+        <module name="spring-security-10rememberMe-split" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-security-01" target="1.8" />
+      <module name="spring-security-02" target="1.8" />
+      <module name="spring-security-03web" target="11" />
+      <module name="spring-security-04split" target="11" />
+      <module name="spring-security-05web-verifycode" target="11" />
+      <module name="spring-security-06split-verifycode" target="11" />
+      <module name="spring-security-07password" target="1.8" />
+      <module name="spring-security-08rememberMe" target="1.8" />
+      <module name="spring-security-09rememberMe-web" target="1.8" />
+      <module name="spring-security-10rememberMe-split" target="1.8" />
+      <module name="spring-security-11csrf-blank" target="1.8" />
+      <module name="spring-security-11session-management" target="1.8" />
+      <module name="spring-security-12csrf-attack" target="1.8" />
+      <module name="spring-security-12csrf-blank" target="1.8" />
+      <module name="spring-security-13csrf-split" target="1.8" />
+      <module name="spring-security-13csrf-web" target="1.8" />
+      <module name="spring-security-14cors" target="1.8" />
+      <module name="spring-security-15exception-handle" target="1.8" />
+      <module name="spring-security-16authorize" target="1.8" />
+      <module name="spring-security-17dynamic-authorize" target="1.8" />
+      <module name="spring-security-18oauth-client-github" target="1.8" />
+      <module name="spring-security-19authorization-server" target="1.8" />
+      <module name="spring-security-20resource-server" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-security-01" options="-parameters" />
+      <module name="spring-security-02" options="-parameters" />
+      <module name="spring-security-03web" options="-parameters" />
+      <module name="spring-security-04split" options="-parameters" />
+      <module name="spring-security-05web-verifycode" options="-parameters" />
+      <module name="spring-security-06split-verifycode" options="-parameters" />
+      <module name="spring-security-07password" options="-parameters" />
+      <module name="spring-security-08rememberMe" options="-parameters" />
+      <module name="spring-security-09rememberMe-web" options="-parameters" />
+      <module name="spring-security-10rememberMe-split" options="-parameters" />
+      <module name="spring-security-11csrf-blank" options="-parameters" />
+      <module name="spring-security-11session-management" options="-parameters" />
+      <module name="spring-security-12csrf-attack" options="-parameters" />
+      <module name="spring-security-12csrf-blank" options="-parameters" />
+      <module name="spring-security-13csrf-split" options="-parameters" />
+      <module name="spring-security-13csrf-web" options="-parameters" />
+      <module name="spring-security-14cors" options="-parameters" />
+    </option>
+  </component>
+</project>

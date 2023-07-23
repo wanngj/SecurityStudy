@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-security-01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-03web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-04split/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-05web-verifycode/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-06split-verifycode/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-07password/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-08rememberMe/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-08rememberMe/spring-security-09rememberMe-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-09rememberMe-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-09rememberMe-web/spring-security-10rememberMe-split/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-10rememberMe-split/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-11session-managment/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-11csrf-blank/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-12csrf-blank/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-12csrf-attack/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-13csrf-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-13csrf-split/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-14cors/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-11session-management/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-15exception-handle/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-16authorize/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-16authorize/spring-security-17dynamic-authorize/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-17dynamic-authorize/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-secutiry-18oauth-client-github/spring-secutiry-18oauth-client-github/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-secutiry-18oauth-client-github/spring-security-18oauth-client-github/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-19authorization-server/spring-security-19authorization-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-20resource-server/spring-security-20resource-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-security-01/spring-security-01.iml" filepath="$PROJECT_DIR$/spring-security-01/spring-security-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-02/spring-security-02.iml" filepath="$PROJECT_DIR$/spring-security-02/spring-security-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-03web/spring-security-03web.iml" filepath="$PROJECT_DIR$/spring-security-03web/spring-security-03web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-04split/spring-security-04split.iml" filepath="$PROJECT_DIR$/spring-security-04split/spring-security-04split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-05web-verifycode/spring-security-05web-verifycode.iml" filepath="$PROJECT_DIR$/spring-security-05web-verifycode/spring-security-05web-verifycode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-06split-verifycode/spring-security-06split-verifycode.iml" filepath="$PROJECT_DIR$/spring-security-06split-verifycode/spring-security-06split-verifycode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-07password/spring-security-07password.iml" filepath="$PROJECT_DIR$/spring-security-07password/spring-security-07password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-08rememberMe/spring-security-08rememberMe.iml" filepath="$PROJECT_DIR$/spring-security-08rememberMe/spring-security-08rememberMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-09rememberMe-web/spring-security-09rememberMe-web.iml" filepath="$PROJECT_DIR$/spring-security-09rememberMe-web/spring-security-09rememberMe-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-10rememberMe-split/spring-security-10rememberMe-split.iml" filepath="$PROJECT_DIR$/spring-security-10rememberMe-split/spring-security-10rememberMe-split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-11session-management/spring-security-11session-management.iml" filepath="$PROJECT_DIR$/spring-security-11session-management/spring-security-11session-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-12csrf-attack/spring-security-12csrf-attack.iml" filepath="$PROJECT_DIR$/spring-security-12csrf-attack/spring-security-12csrf-attack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-12csrf-blank/spring-security-12csrf-blank.iml" filepath="$PROJECT_DIR$/spring-security-12csrf-blank/spring-security-12csrf-blank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-13csrf-split/spring-security-13csrf-split.iml" filepath="$PROJECT_DIR$/spring-security-13csrf-split/spring-security-13csrf-split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-13csrf-web/spring-security-13csrf-web.iml" filepath="$PROJECT_DIR$/spring-security-13csrf-web/spring-security-13csrf-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-14cors/spring-security-14cors.iml" filepath="$PROJECT_DIR$/spring-security-14cors/spring-security-14cors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-15exception-handle/spring-security-15exception-handle.iml" filepath="$PROJECT_DIR$/spring-security-15exception-handle/spring-security-15exception-handle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-16authorize/spring-security-16authorize.iml" filepath="$PROJECT_DIR$/spring-security-16authorize/spring-security-16authorize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-17dynamic-authorize/spring-security-17dynamic-authorize.iml" filepath="$PROJECT_DIR$/spring-security-17dynamic-authorize/spring-security-17dynamic-authorize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-secutiry-18oauth-client-github/spring-security-18oauth-client-github/spring-security-18oauth-client-github.iml" filepath="$PROJECT_DIR$/spring-secutiry-18oauth-client-github/spring-security-18oauth-client-github/spring-security-18oauth-client-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-19authorization-server/spring-security-19authorization-server/spring-security-19authorization-server.iml" filepath="$PROJECT_DIR$/spring-security-19authorization-server/spring-security-19authorization-server/spring-security-19authorization-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-20resource-server/spring-security-20resource-server/spring-security-20resource-server.iml" filepath="$PROJECT_DIR$/spring-security-20resource-server/spring-security-20resource-server/spring-security-20resource-server.iml" />
+    </modules>
+  </component>
+</project>
