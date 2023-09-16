@@ -1,6 +1,7 @@
 package com.baizhi.service;
 
 import com.baizhi.dao.UserDao;
+import com.baizhi.dao.UserMapper;
 import com.baizhi.entity.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -16,15 +17,17 @@ public class MyUserDetailService implements UserDetailsService {
 
 
     @Resource
-    private  UserDao userDao;
+    private UserMapper userMapper;
 
 
 
     @Override
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
-        User user = this.userDao.loadUserByUid(username);
-        if (ObjectUtils.isEmpty(user)) throw new RuntimeException("用户名不存在!");
-        user.setRoles(userDao.getRolesByUid(user.getId()));
+        User user = userMapper.loadUserByUsername(username);
+
+        if (ObjectUtils.isEmpty(user)) return null;
+
+        user.setRoles(userMapper.getUserRoleByUid(user.getId()));
         return user;
     }
 }

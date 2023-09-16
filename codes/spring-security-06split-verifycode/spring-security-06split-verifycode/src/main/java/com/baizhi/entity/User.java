@@ -5,14 +5,19 @@ import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.validation.annotation.Validated;
 
+import javax.validation.constraints.NotBlank;
 import java.util.*;
 
 //自定义User
 public class User implements UserDetails {
 
     private Integer id;
+
+    @NotBlank(message = "用户名不能为空")
     private String username;
+    @NotBlank(message = "密码不能为空")
     private String password;
     private Boolean enabled;//账户是否激活
     private Boolean accountNonExpired;//账户是否过期

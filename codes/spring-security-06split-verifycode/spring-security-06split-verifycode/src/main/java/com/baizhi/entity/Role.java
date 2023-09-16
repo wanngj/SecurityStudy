@@ -1,6 +1,5 @@
 package com.baizhi.entity;
 
-//角色类
 public class Role {
     private Integer id;
     private String name;
